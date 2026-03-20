@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cookie-ts)](https://www.npmjs.com/package/@philiprehberger/cookie-ts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Parse, serialize, and manage HTTP cookies with full typing.
+Parse, serialize, and manage HTTP cookies with full typing
 
 ## Requirements
 
