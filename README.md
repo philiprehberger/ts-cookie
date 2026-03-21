@@ -1,14 +1,10 @@
 # @philiprehberger/cookie-ts
 
 [![CI](https://github.com/philiprehberger/ts-cookie/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-cookie/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/cookie-ts)](https://www.npmjs.com/package/@philiprehberger/cookie-ts)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/cookie-ts.svg)](https://www.npmjs.com/package/@philiprehberger/cookie-ts)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-cookie)](LICENSE)
 
 Parse, serialize, and manage HTTP cookies with full typing
-
-## Requirements
-
-- Node.js >= 18.0.0
 
 ## Installation
 

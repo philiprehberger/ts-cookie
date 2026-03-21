@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/cookie-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse, serialize, and manage HTTP cookies with full typing",
   "type": "module",
   "main": "./dist/index.cjs",
